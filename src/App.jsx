@@ -15,7 +15,7 @@ function App() {
       <Experience />
       <Projects />
       <Contact />
-      kjgdbieyfsfgwiesg7iuesygfw7eiush
+    
     </div>
   );
 }
