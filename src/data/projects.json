@@ -1,0 +1,9 @@
+[
+    {
+      "title": "Online Medicinal plants E-commerce website",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the Javascript Framework React Functionality by building an app.",
+      "skills": ["React", "Css"],
+      "source": "https://www.github.com"
+    }
+  ]
